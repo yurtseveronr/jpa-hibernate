@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="META-INF:hibernate.cfg.xml/Hibernate" uuid="47093c7d-f67f-482d-b4aa-d21d0c17cc73">
+      <imported>true</imported>
+      <configured-by-url>true</configured-by-url>
+      <remarks>Hibernate
+
+C:/Users/Onur Yurtsever/Desktop/jpa-hibernate/src/main/resources/META-INF/hibernate.cfg.xml</remarks>
+      <jdbc-driver>c</jdbc-driver>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
