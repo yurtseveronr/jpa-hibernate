@@ -29,6 +29,14 @@
             create-drop
         </property>
 
+        <mapping class="_02_mapping.User"></mapping>
+        <mapping class="_02_mapping.Address"></mapping>
+        <mapping class="_02_mapping.Company"></mapping>
+        <mapping class="_02_mapping.Course"></mapping>
+        <mapping class="_02_mapping.Mail"></mapping>
+
+
+
 
         
         
