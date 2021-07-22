@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7dc34939-f580-4076-ae6d-df91e5a91d5a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_02_mapping/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_02_mapping/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_02_mapping/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_02_mapping/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_02_mapping/Mail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_02_mapping/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jpa-hibernate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jpa-hibernate.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_03_persistence/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +38,15 @@
     <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/hibernate" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -69,6 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1626946448636</updated>
       <workItem from="1626946452595" duration="6650000" />
+      <workItem from="1626978755378" duration="7828000" />
     </task>
     <servers />
   </component>
@@ -85,5 +78,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
